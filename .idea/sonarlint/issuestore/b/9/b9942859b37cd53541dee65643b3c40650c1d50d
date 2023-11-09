@@ -1,0 +1,18 @@
+
+PWeb:AvoidCommentedOutCodeCheckO"Remove this commented out code.(•úí˜8Ù‡›Ğº1
+kphp:S1036"KSplit this 127 characters long line (which is greater than 120 authorized).(«™¦Çıÿÿÿÿ8ò¾‰øº1
+kphp:S103;"KSplit this 137 characters long line (which is greater than 120 authorized).(÷ÅÖœùÿÿÿÿ8ò¾‰øº1
+kphp:S103@"KSplit this 135 characters long line (which is greater than 120 authorized).(ª•³Êÿÿÿÿÿ8ò¾‰øº1
+kphp:S103E"KSplit this 135 characters long line (which is greater than 120 authorized).(±…ö—üÿÿÿÿ8ò¾‰øº1
+kphp:S103J"KSplit this 130 characters long line (which is greater than 120 authorized).(˜¬û€üÿÿÿÿ8ò¾‰øº1
+=	php:S1116"Remove this empty statement.(‰å²ÿÿÿÿÿ8ò¾‰øº1
+8	php:S1116"Remove this empty statement.(ìÄøˆ8ò¾‰øº1
+B	php:S2003"&Replace "include" with "include_once".(öŒÁ’8ò¾‰øº1
+G	php:S2003#"&Replace "include" with "include_once".(ã‰–ºÿÿÿÿÿ8ò¾‰øº1
+G	php:S2003j"&Replace "include" with "include_once".(ö©íÍøÿÿÿÿ8ò¾‰øº1
+?php:S125"Remove this commented out code.(—õ”€ùÿÿÿÿ8æÓ‰øº1
+Pphp:S121"0Add curly braces around the nested statement(s).(ñ°Äóüÿÿÿÿ8ò¾‰øº1
+Pphp:S121"0Add curly braces around the nested statement(s).(ëÇÆ˜şÿÿÿÿ8æÓ‰øº1
+h	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(öŒÁ’8ò¾‰øº1
+m	php:S4833#"LReplace "include" with namespace import mechanism through the "use" keyword.(ã‰–ºÿÿÿÿÿ8ò¾‰øº1
+m	php:S4833j"LReplace "include" with namespace import mechanism through the "use" keyword.(ö©íÍøÿÿÿÿ8ò¾‰øº1

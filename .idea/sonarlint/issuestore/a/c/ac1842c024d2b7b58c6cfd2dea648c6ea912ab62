@@ -1,0 +1,11 @@
+
+kphp:S1034"KSplit this 165 characters long line (which is greater than 120 authorized).(°¹°¾þÿÿÿÿ8Å»âò¹1
+;	php:S2003"&Replace "include" with "include_once".(çäúÉ
+:	php:S2003"&Replace "include" with "include_once".(á”£{
+@	php:S2003A"&Replace "include" with "include_once".(Ü‹Ÿÿøÿÿÿÿ
+:	php:S2003F"&Replace "include" with "include_once".(´þö{
+Cphp:S121"0Add curly braces around the nested statement(s).(…š†c
+a	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(çäúÉ
+`	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(á”£{
+f	php:S4833A"LReplace "include" with namespace import mechanism through the "use" keyword.(Ü‹Ÿÿøÿÿÿÿ
+`	php:S4833F"LReplace "include" with namespace import mechanism through the "use" keyword.(´þö{

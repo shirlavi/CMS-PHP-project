@@ -1,0 +1,10 @@
+
+PWeb:AvoidCommentedOutCodeCheck6"Remove this commented out code.(•úí˜8âð¼òº1
+B	php:S2003"&Replace "include" with "include_once".(çäúÉ8óÈ·òº1
+A	php:S2003"&Replace "include" with "include_once".(á”£{8óÈ·òº1
+G	php:S2003N"&Replace "include" with "include_once".(Ü‹Ÿÿøÿÿÿÿ8óÈ·òº1
+A	php:S2003S"&Replace "include" with "include_once".(´þö{8óÈ·òº1
+h	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(çäúÉ8óÈ·òº1
+g	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(á”£{8óÈ·òº1
+m	php:S4833N"LReplace "include" with namespace import mechanism through the "use" keyword.(Ü‹Ÿÿøÿÿÿÿ8óÈ·òº1
+g	php:S4833S"LReplace "include" with namespace import mechanism through the "use" keyword.(´þö{8óÈ·òº1

@@ -1,0 +1,11 @@
+
+PWeb:AvoidCommentedOutCodeCheck&"Remove this commented out code.(ùéÇ8•¦€Ù¹1
+PWeb:AvoidCommentedOutCodeCheck&"Remove this commented out code.(ùéÇ8–¦€Ù¹1
+OWeb:AvoidCommentedOutCodeCheck@"Remove this commented out code.(Ú¤–68­¬®ªº1
+OWeb:AvoidCommentedOutCodeCheck@"Remove this commented out code.(Ú¤–68­¬®ªº1
+fphp:S103&"KSplit this 137 characters long line (which is greater than 120 authorized).(ùéÇ8ö¡›ö¹1
+kphp:S103;"KSplit this 126 characters long line (which is greater than 120 authorized).(ÑÅ™şÿÿÿÿ8ö¡›ö¹1
+ephp:S103@"KSplit this 127 characters long line (which is greater than 120 authorized).(Ú¤–68Â¬®ªº1
+:php:S125&"Remove this commented out code.(ùéÇ8ö¡›ö¹1
+9php:S125@"Remove this commented out code.(Ú¤–68Â¬®ªº1
+Pphp:S121"0Add curly braces around the nested statement(s).(® Îşÿÿÿÿ8ö¡›ö¹1

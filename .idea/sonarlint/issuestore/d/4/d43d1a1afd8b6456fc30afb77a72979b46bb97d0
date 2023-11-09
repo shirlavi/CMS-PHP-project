@@ -1,0 +1,9 @@
+
+PWeb:AvoidCommentedOutCodeCheck5"Remove this commented out code.(•úí˜8ÏçÉªº1
+kphp:S103!"KSplit this 125 characters long line (which is greater than 120 authorized).(÷ÅÖœùÿÿÿÿ8¥£úº1
+kphp:S103&"KSplit this 123 characters long line (which is greater than 120 authorized).(ª•³Êÿÿÿÿÿ8¥£úº1
+kphp:S103+"KSplit this 127 characters long line (which is greater than 120 authorized).(¾‚ÊÔøÿÿÿÿ8¥£úº1
+=	php:S1116"Remove this empty statement.(‰å²ÿÿÿÿÿ8¥£úº1
+8	php:S1116"Remove this empty statement.(ìÄøˆ8¥£úº1
+Pphp:S121"0Add curly braces around the nested statement(s).(ñ°Äóüÿÿÿÿ8¥£úº1
+Pphp:S121"0Add curly braces around the nested statement(s).(ëÇÆ˜şÿÿÿÿ8¥£úº1
