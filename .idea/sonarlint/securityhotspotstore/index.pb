@@ -82,3 +82,5 @@ G
 admin/admin_widgets.php,5\5\55d98ec1ac9c66ee6dab10e195a4e2943d8a3f96
 P
  admin/includes/admin_widgets.php,c\b\cbeace180bcfc791bf33338d899890596570c70b
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
