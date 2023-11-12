@@ -11,7 +11,6 @@
 
 if(ifLoggedIn()){
     $user_id = $_SESSION['userid'];
-    echo $user_id;
 
     $query = "SELECT * FROM  users WHERE user_id = '{$user_id}'";
     if (!$select_users_by_id_query = mysqli_query($connection, $query))

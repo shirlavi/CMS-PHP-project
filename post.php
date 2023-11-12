@@ -65,7 +65,6 @@
 
                 if(!$queryCheck = mysqli_query($connection, $query))
                     die("QUERY FAILED". mysqli_error());
-                //header("Location: post.php?p_id='{$post_id_to_show}'"); //refreshing the page
 
                 //incriment_comment_count
                 $query = "UPDATE postss SET post_comment_count = post_comment_count + 1 WHERE post_id = $post_id_to_show";

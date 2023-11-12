@@ -1,21 +1,21 @@
 
-PWeb:AvoidCommentedOutCodeCheckY"Remove this commented out code.(•úí˜8õ‹àº1
-kphp:S103@"KSplit this 135 characters long line (which is greater than 120 authorized).(«™¦Çıÿÿÿÿ8ç¿¯úº1
-kphp:S103E"KSplit this 145 characters long line (which is greater than 120 authorized).(÷ÅÖœùÿÿÿÿ8ç¿¯úº1
-kphp:S103J"KSplit this 143 characters long line (which is greater than 120 authorized).(ª•³Êÿÿÿÿÿ8ç¿¯úº1
-kphp:S103O"KSplit this 147 characters long line (which is greater than 120 authorized).(¾‚ÊÔøÿÿÿÿ8ç¿¯úº1
-kphp:S103T"KSplit this 138 characters long line (which is greater than 120 authorized).(˜¬û€üÿÿÿÿ8è¿¯úº1
-kphp:S103h"KSplit this 127 characters long line (which is greater than 120 authorized).(ÿµ­Ùøÿÿÿÿ8è¿¯úº1
-=	php:S1116"Remove this empty statement.(‰å²ÿÿÿÿÿ8è¿¯úº1
-8	php:S1116"Remove this empty statement.(ìÄøˆ8è¿¯úº1
+PWeb:AvoidCommentedOutCodeCheckX"Remove this commented out code.(•úí˜8õ‹àº1
+kphp:S103?"KSplit this 135 characters long line (which is greater than 120 authorized).(«™¦Çıÿÿÿÿ8ç¿¯úº1
+kphp:S103D"KSplit this 145 characters long line (which is greater than 120 authorized).(÷ÅÖœùÿÿÿÿ8ç¿¯úº1
+kphp:S103I"KSplit this 143 characters long line (which is greater than 120 authorized).(ª•³Êÿÿÿÿÿ8ç¿¯úº1
+kphp:S103N"KSplit this 147 characters long line (which is greater than 120 authorized).(¾‚ÊÔøÿÿÿÿ8ç¿¯úº1
+kphp:S103S"KSplit this 138 characters long line (which is greater than 120 authorized).(˜¬û€üÿÿÿÿ8è¿¯úº1
+kphp:S103g"KSplit this 127 characters long line (which is greater than 120 authorized).(ÿµ­Ùøÿÿÿÿ8è¿¯úº1
+=	php:S1116"Remove this empty statement.(‰å²ÿÿÿÿÿ8è¿¯úº1
+8	php:S1116"Remove this empty statement.(ìÄøˆ8è¿¯úº1
 B	php:S2003"&Replace "include" with "include_once".(çäúÉ8è¿¯úº1
 A	php:S2003"&Replace "include" with "include_once".(á”£{8è¿¯úº1
-G	php:S2003x"&Replace "include" with "include_once".(Ü‹Ÿÿøÿÿÿÿ8è¿¯úº1
-A	php:S2003}"&Replace "include" with "include_once".(´şö{8è¿¯úº1
-?php:S125"Remove this commented out code.(Ñˆ¼«üÿÿÿÿ8Å—Ìúº1
-Pphp:S121"0Add curly braces around the nested statement(s).(ñ°Äóüÿÿÿÿ8è¿¯úº1
-Pphp:S121"0Add curly braces around the nested statement(s).(ëÇÆ˜şÿÿÿÿ8Å—Ìúº1
+G	php:S2003w"&Replace "include" with "include_once".(Ü‹Ÿÿøÿÿÿÿ8è¿¯úº1
+A	php:S2003|"&Replace "include" with "include_once".(´şö{8è¿¯úº1
+?php:S125"Remove this commented out code.(Ñˆ¼«üÿÿÿÿ8Å—Ìúº1
+Pphp:S121"0Add curly braces around the nested statement(s).(ñ°Äóüÿÿÿÿ8è¿¯úº1
+Pphp:S121"0Add curly braces around the nested statement(s).(ëÇÆ˜şÿÿÿÿ8Å—Ìúº1
 h	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(çäúÉ8è¿¯úº1
 g	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(á”£{8è¿¯úº1
-m	php:S4833x"LReplace "include" with namespace import mechanism through the "use" keyword.(Ü‹Ÿÿøÿÿÿÿ8è¿¯úº1
-g	php:S4833}"LReplace "include" with namespace import mechanism through the "use" keyword.(´şö{8è¿¯úº1
+m	php:S4833w"LReplace "include" with namespace import mechanism through the "use" keyword.(Ü‹Ÿÿøÿÿÿÿ8è¿¯úº1
+g	php:S4833|"LReplace "include" with namespace import mechanism through the "use" keyword.(´şö{8è¿¯úº1

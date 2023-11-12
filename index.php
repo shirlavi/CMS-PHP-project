@@ -14,11 +14,12 @@
 
             <!-- Blog Entries Column -->
             <div class="col-md-8">
-                
+                <h1 class="page-header"> Posts <small>- All posts</small></h1>
+
                 <?php
                     $query = "SELECT * FROM  postss where post_status = 'published'";
                     $select_posts_query = mysqli_query($connection, $query);
-                    
+
                     while($row = mysqli_fetch_assoc($select_posts_query)){
                         $post_id = $row['post_id'];
                         $post_title = $row['post_title'];
@@ -27,8 +28,7 @@
                         $post_image = $row['image'];
                         $post_content = substr($row['post_content'], 0 , 100);
                 ?>
-                
-                <h1 class="page-header"> Posts <small>- All posts</small></h1>
+
                 <!-- First Blog Post -->
                 <h2>
                     <a href="post.php?p_id=<?php echo $post_id; ?>"><?php echo "$post_title" ?> </a>

@@ -1,25 +1,25 @@
 
 UWeb:AvoidCommentedOutCodeCheck("Remove this commented out code.(ö–Åüÿÿÿÿ8åÜ¹1
-kphp:S103("KSplit this 132 characters long line (which is greater than 120 authorized).(ö–Åüÿÿÿÿ8«å‚óº1
-fphp:S103?"KSplit this 123 characters long line (which is greater than 120 authorized).(öñÄ8«å‚óº1
-kphp:S103@"KSplit this 145 characters long line (which is greater than 120 authorized).( Á•óüÿÿÿÿ8«å‚óº1
-fphp:S103G"KSplit this 122 characters long line (which is greater than 120 authorized).(ËŸÿ8«å‚óº1
-kphp:S103Q"KSplit this 124 characters long line (which is greater than 120 authorized).(ğÍ»³ÿÿÿÿÿ8«å‚óº1
-kphp:S103f"KSplit this 147 characters long line (which is greater than 120 authorized).(ßŞ½¿ÿÿÿÿÿ8«å‚óº1
-fphp:S103h"KSplit this 131 characters long line (which is greater than 120 authorized).(Àø»Ö8«å‚óº1
-·	php:S2681f"•This statement will not be executed conditionally; only the first statement of this 5-statement block will be. The rest will execute unconditionally.(ßŞ½¿ÿÿÿÿÿ8«å‚óº1
-i	php:S1192C"MDefine a constant instead of duplicating this literal "QUERY FAILED" 4 times.(ßŠ÷†8«å‚óº1
-B	php:S2003"&Replace "include" with "include_once".(çäúÉ8«å‚óº1
-A	php:S2003"&Replace "include" with "include_once".(á”£{8«å‚óº1
-H	php:S2003”"&Replace "include" with "include_once".(Ü‹Ÿÿøÿÿÿÿ8«å‚óº1
-B	php:S2003™"&Replace "include" with "include_once".(´şö{8«å‚óº1
-?php:S125V"Remove this commented out code.(Œ‘‚¢úÿÿÿÿ8«å‚óº1
-Pphp:S121B"0Add curly braces around the nested statement(s).(ÌĞïÿÿÿÿÿ8«å‚óº1
-Kphp:S121H"0Add curly braces around the nested statement(s).(ñÈ‚š8«å‚óº1
-Kphp:S121R"0Add curly braces around the nested statement(s).(ÄâÍæ8«å‚óº1
-Jphp:S121]"0Add curly braces around the nested statement(s).(æŸ—'8«å‚óº1
-Kphp:S121b"0Add curly braces around the nested statement(s).(³¡è®8«å‚óº1
-h	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(çäúÉ8«å‚óº1
-g	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(á”£{8«å‚óº1
-n	php:S4833”"LReplace "include" with namespace import mechanism through the "use" keyword.(Ü‹Ÿÿøÿÿÿÿ8«å‚óº1
-h	php:S4833™"LReplace "include" with namespace import mechanism through the "use" keyword.(´şö{8«å‚óº1
+kphp:S103("KSplit this 132 characters long line (which is greater than 120 authorized).(ö–Åüÿÿÿÿ8ºĞÈ£»1
+fphp:S103?"KSplit this 123 characters long line (which is greater than 120 authorized).(öñÄ8ºĞÈ£»1
+kphp:S103@"KSplit this 145 characters long line (which is greater than 120 authorized).( Á•óüÿÿÿÿ8ºĞÈ£»1
+fphp:S103F"KSplit this 122 characters long line (which is greater than 120 authorized).(ËŸÿ8ºĞÈ£»1
+kphp:S103P"KSplit this 124 characters long line (which is greater than 120 authorized).(ğÍ»³ÿÿÿÿÿ8ºĞÈ£»1
+kphp:S103e"KSplit this 147 characters long line (which is greater than 120 authorized).(ßŞ½¿ÿÿÿÿÿ8ºĞÈ£»1
+fphp:S103g"KSplit this 131 characters long line (which is greater than 120 authorized).(Àø»Ö8ºĞÈ£»1
+·	php:S2681e"•This statement will not be executed conditionally; only the first statement of this 5-statement block will be. The rest will execute unconditionally.(ßŞ½¿ÿÿÿÿÿ8ºĞÈ£»1
+i	php:S1192C"MDefine a constant instead of duplicating this literal "QUERY FAILED" 4 times.(ßŠ÷†8ºĞÈ£»1
+B	php:S2003"&Replace "include" with "include_once".(çäúÉ8ºĞÈ£»1
+A	php:S2003"&Replace "include" with "include_once".(á”£{8ºĞÈ£»1
+H	php:S2003“"&Replace "include" with "include_once".(Ü‹Ÿÿøÿÿÿÿ8ºĞÈ£»1
+B	php:S2003˜"&Replace "include" with "include_once".(´şö{8ºĞÈ£»1
+?php:S125U"Remove this commented out code.(Œ‘‚¢úÿÿÿÿ8ºĞÈ£»1
+Pphp:S121B"0Add curly braces around the nested statement(s).(ÌĞïÿÿÿÿÿ8ºĞÈ£»1
+Kphp:S121G"0Add curly braces around the nested statement(s).(ñÈ‚š8ºĞÈ£»1
+Kphp:S121Q"0Add curly braces around the nested statement(s).(ÄâÍæ8ºĞÈ£»1
+Jphp:S121\"0Add curly braces around the nested statement(s).(æŸ—'8ºĞÈ£»1
+Kphp:S121a"0Add curly braces around the nested statement(s).(³¡è®8ºĞÈ£»1
+h	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(çäúÉ8ºĞÈ£»1
+g	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(á”£{8ºĞÈ£»1
+n	php:S4833“"LReplace "include" with namespace import mechanism through the "use" keyword.(Ü‹Ÿÿøÿÿÿÿ8ºĞÈ£»1
+h	php:S4833˜"LReplace "include" with namespace import mechanism through the "use" keyword.(´şö{8ºĞÈ£»1

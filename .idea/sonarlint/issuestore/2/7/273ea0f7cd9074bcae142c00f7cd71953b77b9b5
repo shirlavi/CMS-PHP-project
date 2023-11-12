@@ -2,8 +2,4 @@
 TWeb:TableWithoutCaptionCheck" Add a description to this table.(Ó÷®Œûÿÿÿÿ8ïôÖ§º1
 PWeb:AvoidCommentedOutCodeCheck	"Remove this commented out code.(ì£©Ò8­À«¨º1
 PWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(¸“¶í8ã×«¨º1
-:php:S113"'Add a new line at the end of this file.8ÂØç§º1
-?php:S125'"Remove this commented out code.(‹ÇÍìüÿÿÿÿ8àÏª¨º1
-?php:S125-"Remove this commented out code.(ù”¯Øøÿÿÿÿ8§êª¨º1
-Pphp:S121"0Add curly braces around the nested statement(s).(êÀ‡øÿÿÿÿ8ÂØç§º1
-Pphp:S121;"0Add curly braces around the nested statement(s).(¨íÈøÿÿÿÿ8‡ªêªº1
+:php:S113"'Add a new line at the end of this file.8©‹ó–¼1

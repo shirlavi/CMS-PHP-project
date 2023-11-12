@@ -24,11 +24,7 @@
     </table>
 
 <?php
-
-deleteComment();
-approveComment();
-unapproveComment();
-
-
-
+    deleteComment();
+    approveComment();
+    unapproveComment();
 ?>

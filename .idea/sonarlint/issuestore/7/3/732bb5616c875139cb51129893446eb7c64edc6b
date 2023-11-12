@@ -1,0 +1,17 @@
+
+UWeb:AvoidCommentedOutCodeCheck7"Remove this commented out code.(²¦ÿıÿÿÿÿ8¶¸Ä—¼1
+UWeb:AvoidCommentedOutCodeCheckP"Remove this commented out code.(®Áö‹ûÿÿÿÿ8¶¸Ä—¼1
+fphp:S1032"KSplit this 172 characters long line (which is greater than 120 authorized).(äÓÆ8æôĞ—¼1
+kphp:S1037"KSplit this 123 characters long line (which is greater than 120 authorized).(²¦ÿıÿÿÿÿ8èôĞ—¼1
+kphp:S103K"KSplit this 124 characters long line (which is greater than 120 authorized).(ÜÓ¹¸ùÿÿÿÿ8èôĞ—¼1
+kphp:S103Y"KSplit this 129 characters long line (which is greater than 120 authorized).(Ê¤à¹şÿÿÿÿ8èôĞ—¼1
+B	php:S2003"&Replace "include" with "include_once".(çäúÉ8èôĞ—¼1
+A	php:S2003"&Replace "include" with "include_once".(á”£{8èôĞ—¼1
+G	php:S2003r"&Replace "include" with "include_once".(Ü‹Ÿÿøÿÿÿÿ8èôĞ—¼1
+A	php:S2003w"&Replace "include" with "include_once".(´şö{8èôĞ—¼1
+?php:S125"Remove this commented out code.(Ñˆ¼«üÿÿÿÿ8ÂôÃ™¼1
+Kphp:S121"0Add curly braces around the nested statement(s).(ô¸“½8ÂôÃ™¼1
+h	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(çäúÉ8èôĞ—¼1
+g	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(á”£{8èôĞ—¼1
+m	php:S4833r"LReplace "include" with namespace import mechanism through the "use" keyword.(Ü‹Ÿÿøÿÿÿÿ8èôĞ—¼1
+g	php:S4833w"LReplace "include" with namespace import mechanism through the "use" keyword.(´şö{8èôĞ—¼1

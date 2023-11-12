@@ -74,3 +74,11 @@ A
 register.php,4\2\4260f3cafd4f8dcfdf5c725afbdbbc2d6e41708c
 C
 includes/widget.php,2\b\2b55f2d8846e5b3cfbf5401d6f27f85cae820648
+;
+addPost.php,7\3\732bb5616c875139cb51129893446eb7c64edc6b
+B
+admin_widgets.html,2\0\20fc62e09d8dbf3c513c4a15a98f814898a5e209
+G
+admin/admin_widgets.php,5\5\55d98ec1ac9c66ee6dab10e195a4e2943d8a3f96
+P
+ admin/includes/admin_widgets.php,c\b\cbeace180bcfc791bf33338d899890596570c70b

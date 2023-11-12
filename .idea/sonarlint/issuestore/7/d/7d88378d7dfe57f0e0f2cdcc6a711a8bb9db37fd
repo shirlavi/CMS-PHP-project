@@ -1,3 +1,5 @@
 
-UWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(²¦ÿıÿÿÿÿ8ÓØêÚ¹1
-UWeb:AvoidCommentedOutCodeCheck/"Remove this commented out code.(®Áö‹ûÿÿÿÿ8û¨§ªº1
+UWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(²¦ÿıÿÿÿÿ8ÓØêÚ¹1
+UWeb:AvoidCommentedOutCodeCheck0"Remove this commented out code.(®Áö‹ûÿÿÿÿ8û¨§ªº1
+:php:S125"Remove this commented out code.(œÚÎ8°Æ™¼1
+Kphp:S121"0Add curly braces around the nested statement(s).(ô¸“½8°Æ™¼1

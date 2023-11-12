@@ -36,7 +36,7 @@
         <ul class="nav navbar-nav side-nav">
 
             <li>
-                <a href="../index.php"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>
+                <a href="index.php"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>
             </li>
 
             <li>

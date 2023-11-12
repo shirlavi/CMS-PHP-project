@@ -1,7 +1,8 @@
 <?php global $connection;?>
 
 <?php
-  addPost();
+if(addPost())
+    header("Location: posts.php"); //refreshing;
 ?>
 <h1>Add Post</h1>
 <br>
