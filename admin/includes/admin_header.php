@@ -2,7 +2,7 @@
     ob_start();
     session_start();
     include "../includes/db.php";
-    include "function.php";
+    include "functions/function.php";
 
 
     if(!ifLoggedIn() || !ifAdminLoggedIn() )

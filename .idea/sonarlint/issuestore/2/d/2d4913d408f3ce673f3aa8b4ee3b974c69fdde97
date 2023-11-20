@@ -1,0 +1,18 @@
+
+fphp:S103"KSplit this 129 characters long line (which is greater than 120 authorized).(€ù 8¶Ì½ß¾1
+kphp:S103 "KSplit this 135 characters long line (which is greater than 120 authorized).(µ¹¯Éüÿÿÿÿ8¶Ì½ß¾1
+i	php:S1192	"MDefine a constant instead of duplicating this literal "QUERY FAILED" 8 times.(ßŠ÷†8·Ì½ß¾1
+x	php:S1192
+"WDefine a constant instead of duplicating this literal "Location: comments.php" 3 times.(‰¿Üùùÿÿÿÿ8·Ì½ß¾1
+	php:S1488V"^Immediately return this expression instead of assigning it to the temporary variable "$count".(Ùˆƒ—øÿÿÿÿ8¦ÅÁß¾1
+	php:S1488_"^Immediately return this expression instead of assigning it to the temporary variable "$count".(Ùˆƒ—øÿÿÿÿ8í¯Âß¾1
+	php:S1488h"^Immediately return this expression instead of assigning it to the temporary variable "$count".(Ùˆƒ—øÿÿÿÿ8«ÀÃß¾1
+:php:S125K"Remove this commented out code.(áõ¡‰8·Ì½ß¾1
+Kphp:S121"0Add curly braces around the nested statement(s).(ÚàõÏ8·Ì½ß¾1
+Kphp:S121"0Add curly braces around the nested statement(s).(¸¢“Œ8·Ì½ß¾1
+Kphp:S121!"0Add curly braces around the nested statement(s).(ÙıÓÆ8·Ì½ß¾1
+Kphp:S121,"0Add curly braces around the nested statement(s).(ÄâÍæ8·Ì½ß¾1
+Kphp:S121@"0Add curly braces around the nested statement(s).(ÕšÛÛ8·Ì½ß¾1
+Kphp:S121T"0Add curly braces around the nested statement(s).(¢“Îü8¦ÅÁß¾1
+Kphp:S121]"0Add curly braces around the nested statement(s).(¢“Îü8í¯Âß¾1
+Kphp:S121f"0Add curly braces around the nested statement(s).(¢“Îü8«ÀÃß¾1

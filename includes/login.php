@@ -1,7 +1,7 @@
 <?php
 
 include "db.php";
-include "../admin/function.php";
+include "../admin/functions/function.php";
 session_start();
 
 global $connection;

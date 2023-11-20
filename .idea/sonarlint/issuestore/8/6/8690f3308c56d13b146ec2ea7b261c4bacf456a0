@@ -1,0 +1,27 @@
+
+fphp:S103"KSplit this 176 characters long line (which is greater than 120 authorized).(ñ¼ıÍ8éÚÄß¾1
+fphp:S103"KSplit this 213 characters long line (which is greater than 120 authorized).(°şÑ¡8éÚÄß¾1
+sphp:S100`"XRename function "creat_posts_table" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‡–8éÚÄß¾1
+|php:S100ƒ"[Rename function "show_cat_title_by_ID" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(³™×úÿÿÿÿ8éÚÄß¾1
+:php:S113"'Add a new line at the end of this file.8éÚÄß¾1
+i	php:S1192("MDefine a constant instead of duplicating this literal "QUERY FAILED" 7 times.(ßŠ÷†8éÚÄß¾1
+€	php:S1488“"^Immediately return this expression instead of assigning it to the temporary variable "$count".(ìë‚»øÿÿÿÿ8ù­Åß¾1
+€	php:S1488œ"^Immediately return this expression instead of assigning it to the temporary variable "$count".(ìë‚»øÿÿÿÿ8ù­Åß¾1
+€	php:S1488¥"^Immediately return this expression instead of assigning it to the temporary variable "$count".(ìë‚»øÿÿÿÿ8ÿ«Çß¾1
+:php:S1259"Remove this commented out code.(Ü´è8éÚÄß¾1
+Pphp:S121"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ8éÚÄß¾1
+Pphp:S121"0Add curly braces around the nested statement(s).(ÄÀĞœùÿÿÿÿ8éÚÄß¾1
+Pphp:S121"0Add curly braces around the nested statement(s).(ïƒÙıÿÿÿÿ8éÚÄß¾1
+Pphp:S121%"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ8éÚÄß¾1
+Kphp:S121#"0Add curly braces around the nested statement(s).(—„À½8éÚÄß¾1
+Pphp:S121'"0Add curly braces around the nested statement(s).(®šÉ¥ûÿÿÿÿ8éÚÄß¾1
+Pphp:S121O"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ8éÚÄß¾1
+Pphp:S121M"0Add curly braces around the nested statement(s).(µıÖüÿÿÿÿ8éÚÄß¾1
+Pphp:S121?"0Add curly braces around the nested statement(s).(ïƒÙıÿÿÿÿ8éÚÄß¾1
+Jphp:S121Z"0Add curly braces around the nested statement(s).(·Üãq8éÚÄß¾1
+Jphp:S121c"0Add curly braces around the nested statement(s).(ÔœÙ>8éÚÄß¾1
+Lphp:S121†"0Add curly braces around the nested statement(s).(·í¾8éÚÄß¾1
+Lphp:S121ˆ"0Add curly braces around the nested statement(s).(¡ƒ Ÿ8éÚÄß¾1
+Lphp:S121‘"0Add curly braces around the nested statement(s).(ÕšÛÛ8ù­Åß¾1
+Lphp:S121š"0Add curly braces around the nested statement(s).(ÕšÛÛ8ù­Åß¾1
+Lphp:S121£"0Add curly braces around the nested statement(s).(ÕšÛÛ8ÿ«Çß¾1

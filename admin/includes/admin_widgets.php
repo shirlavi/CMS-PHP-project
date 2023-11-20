@@ -118,10 +118,9 @@
                     $numberOfPendingComments= numberOfPendingComments();
                     $numberOfConfirmComments= numberOfConfirmComments();
 
-
                     $element_text = ['Active Posts', 'Draft Posts', 'Comments', 'Pending Comments', 'Users', 'Categories'];
                     $element_count = [$numberOfActivePosts, $numberOfDraftPosts, $numberOfConfirmComments, $numberOfPendingComments, $numberOfUsers, $numberOfCats];
-                    $color = ['blue','blue', 'green','green', 'yellow', 'red'];
+                    //$color = ['blue','blue', 'green','green', 'yellow', 'red'];
 
                     for ($i = 0; $i<6 ; $i++){
                         echo "['{$element_text[$i]}'" .  "," . "{$element_count[$i]}],";

@@ -1,5 +1,5 @@
 <?php include "includes/db.php"; ?>
-<?php include "admin/function.php"; ?>
+<?php include "admin/functions/function.php"; ?>
 <?php session_start(); ?>
 
 <!DOCTYPE html>

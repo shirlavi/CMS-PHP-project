@@ -1,0 +1,33 @@
+
+fphp:S103"KSplit this 148 characters long line (which is greater than 120 authorized).(¼áŒƒ8Õ™¸ß¾1
+fphp:S103"KSplit this 182 characters long line (which is greater than 120 authorized).(×­£á8Õ™¸ß¾1
+kphp:S103_"KSplit this 126 characters long line (which is greater than 120 authorized).(´æßÉýÿÿÿÿ8Õ™¸ß¾1
+:php:S113"'Add a new line at the end of this file.8Õ™¸ß¾1
+u	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÿûÿ÷úÿÿÿÿ8Õ™¸ß¾1
+i	php:S1192C"MDefine a constant instead of duplicating this literal "QUERY FAILED" 4 times.(ßŠ÷†8À¥Éß¾1
+q	php:S1192A"UDefine a constant instead of duplicating this literal "SELECT * FROM  users" 3 times.(‡Ä“ß8À¥Éß¾1
+{	php:S1488²"^Immediately return this expression instead of assigning it to the temporary variable "$count".(€ˆëÜ8À¥Éß¾1
+P	php:S1481•"3Remove this unused "$user_password" local variable.(î­Ó’8À¥Éß¾1
+K	php:S1481›".Remove this unused "$randsalt" local variable.(ÅœÙ»8À¥Éß¾1
+P	php:S10663"/Merge this if statement with the enclosing one.(õ¶³Ãüÿÿÿÿ8Õ™¸ß¾1
+]	php:S1793"<Replace this "else if" keyword sequence by "elseif" keyword.(Åç¸ïÿÿÿÿÿ8Õ™¸ß¾1
+]	php:S1793a"<Replace this "else if" keyword sequence by "elseif" keyword.(¦Óþãüÿÿÿÿ8Õ™¸ß¾1
+?php:S125+"Remove this commented out code.(ÓÍôôúÿÿÿÿ8Õ™¸ß¾1
+@php:S125 "Remove this commented out code.(‹ÇÍìüÿÿÿÿ8À¥Éß¾1
+@php:S125¦"Remove this commented out code.(ù”¯Øøÿÿÿÿ8À¥Éß¾1
+Pphp:S121"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ8Õ™¸ß¾1
+Pphp:S121"0Add curly braces around the nested statement(s).(Î÷Âøÿÿÿÿ8Õ™¸ß¾1
+Pphp:S121"0Add curly braces around the nested statement(s).(ðÊéÆþÿÿÿÿ8Õ™¸ß¾1
+Pphp:S121"0Add curly braces around the nested statement(s).(Åç¸ïÿÿÿÿÿ8Õ™¸ß¾1
+Kphp:S121"0Add curly braces around the nested statement(s).(‹í–¬8Õ™¸ß¾1
+Pphp:S121:"0Add curly braces around the nested statement(s).(±¯¢Æúÿÿÿÿ8Õ™¸ß¾1
+Pphp:S121B"0Add curly braces around the nested statement(s).(ßÃ‹öþÿÿÿÿ8Õ™¸ß¾1
+Kphp:S121["0Add curly braces around the nested statement(s).(¯ø™´8Õ™¸ß¾1
+Pphp:S121q"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ8Õ™¸ß¾1
+Pphp:S121o"0Add curly braces around the nested statement(s).(ŠÜÏöùÿÿÿÿ8Õ™¸ß¾1
+Pphp:S121a"0Add curly braces around the nested statement(s).(¦Óþãüÿÿÿÿ8Õ™¸ß¾1
+Pphp:S121_"0Add curly braces around the nested statement(s).(´æßÉýÿÿÿÿ8Õ™¸ß¾1
+Kphp:S121{"0Add curly braces around the nested statement(s).(íé•›8Õ™¸ß¾1
+Qphp:S121…"0Add curly braces around the nested statement(s).(¨íÈøÿÿÿÿ8À¥Éß¾1
+Qphp:S121"0Add curly braces around the nested statement(s).(êÀŽ‡øÿÿÿÿ8À¥Éß¾1
+Lphp:S121°"0Add curly braces around the nested statement(s).(Ý”Öã8À¥Éß¾1

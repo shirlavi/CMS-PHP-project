@@ -1,7 +1,7 @@
 
 :php:S113"'Add a new line at the end of this file.8ÝÍñòº1
 G	php:S2003"&Replace "include" with "include_once".(€àÓ›ÿÿÿÿÿ8ÞÍñòº1
-G	php:S2003"&Replace "include" with "include_once".(ìç…ãýÿÿÿÿ8ÞÍñòº1
+B	php:S2003"&Replace "include" with "include_once".(ø­£±8ÞÍñòº1
 Kphp:S121"0Add curly braces around the nested statement(s).(‰À¨Á8ÞÍñòº1
 m	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(€àÓ›ÿÿÿÿÿ8ÞÍñòº1
-m	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ìç…ãýÿÿÿÿ8ÞÍñòº1
+h	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ø­£±8ÞÍñòº1

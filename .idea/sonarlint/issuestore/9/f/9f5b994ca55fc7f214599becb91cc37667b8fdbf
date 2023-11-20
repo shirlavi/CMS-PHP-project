@@ -1,0 +1,22 @@
+
+fphp:S103H"KSplit this 123 characters long line (which is greater than 120 authorized).(ŒÈŠ8è—ß¾1
+mphp:S100"SRename function "add_category" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½°ãq8è—ß¾1
+vphp:S100"VRename function "creat_cat_table" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(§½÷üıÿÿÿÿ8è—ß¾1
+pphp:S100&"VRename function "delete_category" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¹¾’k8è—ß¾1
+vphp:S100?"VRename function "update_category" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(º›®øÿÿÿÿ8é—ß¾1
+i	php:S1192"MDefine a constant instead of duplicating this literal "QUERY FAILED" 5 times.(ßŠ÷†8é—ß¾1
+{	php:S1192"ZDefine a constant instead of duplicating this literal "SELECT * FROM  categories" 3 times.(â½á“øÿÿÿÿ8î‡Êß¾1
+	php:S1488m"^Immediately return this expression instead of assigning it to the temporary variable "$count".(˜´İãÿÿÿÿÿ8î‡Êß¾1
+Pphp:S121	"0Add curly braces around the nested statement(s).(î´›ıÿÿÿÿ8é—ß¾1
+Kphp:S121"0Add curly braces around the nested statement(s).(ÈÁßè8é—ß¾1
+Jphp:S121"0Add curly braces around the nested statement(s).(Ùç¢8é—ß¾1
+Kphp:S121"0Add curly braces around the nested statement(s).(·í¾8é—ß¾1
+Kphp:S121+"0Add curly braces around the nested statement(s).(Ÿƒù8é—ß¾1
+Kphp:S1214"0Add curly braces around the nested statement(s).(·í¾8é—ß¾1
+Pphp:S121E"0Add curly braces around the nested statement(s).(¥ÚÄ¹üÿÿÿÿ8é—ß¾1
+Pphp:S121K"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ8é—ß¾1
+Pphp:S121I"0Add curly braces around the nested statement(s).(Ğˆ»Èıÿÿÿÿ8é—ß¾1
+Pphp:S121C"0Add curly braces around the nested statement(s).(°§ôÛûÿÿÿÿ8é—ß¾1
+Kphp:S121T"0Add curly braces around the nested statement(s).(›Ì­8é—ß¾1
+Kphp:S121c"0Add curly braces around the nested statement(s).(÷Ü¤û8é—ß¾1
+Kphp:S121k"0Add curly braces around the nested statement(s).(ŸÚ–­8ï‡Êß¾1
